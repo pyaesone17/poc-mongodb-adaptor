@@ -1,0 +1,1 @@
+# poc-mongodb-adaptor
